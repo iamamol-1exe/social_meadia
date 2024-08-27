@@ -1,0 +1,21 @@
+.app-container {
+  display: flex;
+}
+
+.content {
+  width: 100%;
+}
+.sidebar {
+  min-height: 650px;
+}
+.createpost {
+  margin: 10px;
+}
+.alert {
+  margin-top: 15px;
+}
+.create-post {
+  width: 80%;
+  margin-top: 10%;
+  margin-left: 10%;
+}
